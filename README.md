@@ -25,9 +25,6 @@
 ### 브라우저에서 바로 해 볼 수 있는 것
 
 - [SPP — Snap Ping Pong](https://playspp.site/) · 인터랙티브 탁구 게임 ([코드](https://github.com/hooni9807/spp))
-- [Auto Ping Pong](https://hooni9807.github.io/auto-ping-pong/) · SPP 탁구 캐릭터로 만든 오토배틀러 ([코드](https://github.com/hooni9807/auto-ping-pong))
-- [BeamRPG](https://hooni9807.github.io/beamrpg/) · 마을을 돌아다니며 성장하는 탁구 RPG ([코드](https://github.com/hooni9807/beamrpg))
-- [BeamCatch](https://hooni9807.github.io/beamcatch/) · BeamRPG 캐릭터가 나오는 레트로 탐험·수집 RPG ([코드](https://github.com/hooni9807/beamcatch))
 
 ### 어떻게 만들었는지
 
@@ -36,11 +33,7 @@
 | 프로젝트 | 기간 · 커밋 | 개발 과정 |
 |---|---|---|
 | SPP | 2026.10.12 ~ 11.17 · 1,567 | [프로토타입부터 공개 가이드까지 10단계](https://github.com/hooni9807/spp#3-개발-과정) |
-| SPP Android | 2026.10.12 ~ 11.09 · 1,149 | [웹 게임을 Capacitor로 앱 빌드](https://github.com/hooni9807/spp-android#3-개발-과정) |
-| BeamRPG | 2026.10.12 ~ 10.16 · 317 | [개발 과정](https://github.com/hooni9807/beamrpg#3-개발-과정) |
-| Auto Ping Pong | 2026.10.28 ~ 10.29 · 33 | [개발 과정](https://github.com/hooni9807/auto-ping-pong#3-개발-과정) |
 | TTT | 2026.10.26 ~ 10.27 · 37 | [개발 과정](https://github.com/hooni9807/ttt#3-개발-과정) |
-| BeamCatch | 2026.10.19 · 2 | [개발 과정](https://github.com/hooni9807/beamcatch#3-개발-과정) |
 
 AI 코딩 도구(Claude Code)를 함께 썼습니다. 기획, 설계 결정, 플레이 테스트, 최종 검토는 직접 했습니다.
 
