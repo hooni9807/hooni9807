@@ -25,6 +25,7 @@
 ### 브라우저에서 바로 해 볼 수 있는 것
 
 - [SPP — Snap Ping Pong](https://playspp.site/) · 인터랙티브 탁구 게임 ([코드](https://github.com/hooni9807/spp))
+- [Raise Beam](https://hooni9807.github.io/raise-beam/) · 84일 동안 아들을 키워 탁구 국가대표, 전기기사, 노숙자 등 24가지 엔딩 중 하나를 보는 육성 게임 ([코드](https://github.com/hooni9807/raise-beam))
 
 ### 어떻게 만들었는지
 
