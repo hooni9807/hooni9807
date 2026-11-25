@@ -25,11 +25,10 @@
 | 2025.03 ~ 2025.07 | [뷰티프렌즈](https://hooni9807.github.io/portfolio/#beautyfriends) — Gemma3 기반 시각장애인 메이크업 도우미 | 개인 |
 | 2024.09 ~ 2025.02 | [레포트메이트](https://hooni9807.github.io/portfolio/#reportmate) — LLM 기반 자료 조사 협업 플랫폼 | 팀 |
 
-프로젝트 이름을 누르면 포트폴리오의 해당 설명으로 바로 이동합니다.
+프로젝트 이름을 누르면 포트폴리오의 해당 설명으로 바로 이동합니다. 시연 영상, 설계 결정, 측정 결과는 포트폴리오에 정리했습니다.
 
-### 브라우저에서 바로 해 볼 수 있는 것
+### 브라우저에서 바로 써 볼 수 있는 분석 도구
 
-- [SPP — Snap Ping Pong](https://playspp.site/) · 인터랙티브 탁구 게임 ([코드](https://github.com/hooni9807/spp))
 - [TTT](https://hooni9807.github.io/ttt/) · 휴대폰 스윙 영상 하나로 3D 자세를 복원해 프로 기준과 비교하는 탁구 자세 분석 ([코드](https://github.com/hooni9807/ttt))
 - [CPP](https://cpp-rally-1029.web.app) · 탁구 영상에 랠리 시간·샷 수·스윙 속도·코트맵을 겹쳐 보여 주는 분석 화면 (MediaPipe Pose)
 
@@ -39,10 +38,9 @@
 
 | 프로젝트 | 기간 · 커밋 | 개발 과정 |
 |---|---|---|
-| SPP | 2026.10.12 ~ 11.17 · 1,567 | [프로토타입부터 공개 가이드까지 10단계](https://github.com/hooni9807/spp#3-개발-과정) |
 | TTT | 2026.10.26 ~ 10.27 · 37 | [개발 과정](https://github.com/hooni9807/ttt#3-개발-과정) |
 
-AI 코딩 도구(Claude Code)를 함께 썼습니다. 기획, 설계 결정, 플레이 테스트, 최종 검토는 직접 했습니다.
+AI 코딩 도구(Claude Code)를 함께 썼습니다. 기획, 설계 결정, 시험, 최종 검토는 직접 했습니다.
 
 ### 기술
 
