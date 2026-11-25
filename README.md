@@ -32,7 +32,7 @@
 | 기간 | 프로젝트 | 구분 |
 |---|---|---|
 | 2026.10&nbsp;~&nbsp;2026.11 | [문장곁](https://hooni9807.github.io/portfolio/#munjang) · 자기소개서 비교·편집과 AI 면접관 피드백 | 개인 |
-| 2026.03&nbsp;~&nbsp;06 | [모르는거없쌤](https://hooni9807.github.io/portfolio/#aitutor) · RAG 기반 AI 튜터 | 팀 |
+| 2026.03&nbsp;~&nbsp;2026.06 | [모르는거없쌤](https://hooni9807.github.io/portfolio/#aitutor) · RAG 기반 AI 튜터 | 팀 |
 | 2024.09&nbsp;~&nbsp;2025.02 | [레포트메이트](https://hooni9807.github.io/portfolio/#reportmate) · LLM 자료 조사 협업 플랫폼 | 팀 |
 
 프로젝트 이름을 누르면 포트폴리오의 해당 설명으로 바로 이동합니다. 시연 영상, 설계 결정, 측정 결과는 포트폴리오에 정리했습니다.
