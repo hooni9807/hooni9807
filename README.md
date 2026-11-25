@@ -55,7 +55,6 @@
 ### 브라우저에서 바로 써 볼 수 있는 분석 도구
 
 - [TTT](https://hooni9807.github.io/ttt/) · 휴대폰 스윙 영상 하나로 3D 자세를 복원해 프로 기준과 비교하는 탁구 자세 분석 ([코드](https://github.com/hooni9807/ttt))
-- [CPP](https://cpp-rally-1029.web.app) · 탁구 영상에 랠리 시간·샷 수·스윙 속도·코트맵을 겹쳐 보여 주는 분석 화면 (MediaPipe Pose)
 
 ---
 
