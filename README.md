@@ -57,7 +57,7 @@
 
 | 분야 | 기술 |
 |---|---|
-| AI · LLM | Gemma 3·4(Ollama), GPT API, Groq, LangChain RAG, Pinecone, OCR(PaddleOCR), MediaPipe, DINOv2, k-NN, Claude Code 스킬 제작 |
+| AI&nbsp;·&nbsp;LLM | Gemma 3·4(Ollama), GPT API, Groq, LangChain RAG, Pinecone, OCR(PaddleOCR), MediaPipe, DINOv2, k-NN, Claude Code 스킬 제작 |
 | 서버 | FastAPI, Flask, Node.js, WebSocket, JWT, MySQL, Firebase Firestore, Cloudflare Workers |
-| 화면 · 앱 | JavaScript, HTML/CSS, React·Redux, Electron, Android(CameraX), Swift, ONNX Runtime Web, 음성 인식·합성 |
-| 테스트 · 도구 | Python 회귀 테스트, pytest, Playwright, 문서 형식 바이트 분석, LibreOffice, Docker, Makefile, OpenCV(ORB·RANSAC)·NumPy |
+| 화면&nbsp;·&nbsp;앱 | JavaScript, HTML/CSS, React·Redux, Electron, Android(CameraX), Swift, ONNX Runtime Web, 음성 인식·합성 |
+| 테스트&nbsp;·&nbsp;도구 | Python 회귀 테스트, pytest, Playwright, 문서 형식 바이트 분석, LibreOffice, Docker, Makefile, OpenCV(ORB·RANSAC)·NumPy |
