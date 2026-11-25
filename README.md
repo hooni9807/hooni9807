@@ -13,7 +13,7 @@
 
 | 기간 | 프로젝트 | 구분 |
 |---|---|---|
-| 2026.11 | [Crawling-Document-Data](https://hooni9807.github.io/portfolio/#cdd) — 공공데이터포털 실제 문서 샘플 수집기 (Playwright) | 개인 |
+| 2026.11 | [Crawling-Document-Data](https://hooni9807.github.io/portfolio/#cdd) — 공공데이터포털 실제 문서 샘플 수집기 (Playwright) | 인턴십 |
 | 2026.11 | [What Is This?](https://hooni9807.github.io/portfolio/#whatisthis) — 손끝이 가리킨 음료를 읽어 주는 모바일 웹 (MediaPipe · PaddleOCR · DINOv2) | 개인 |
 | 2026.11 | [소리한상](https://hooni9807.github.io/portfolio/#sorihansang) — 시각장애인용 식사 안내 도구 (Gemma 4 · MediaPipe) | 개인 |
 | 2026.11 | [문장곁](https://hooni9807.github.io/portfolio/#munjang) — 자기소개서 문단별 비교·편집과 AI 면접관 피드백 | 개인 |
