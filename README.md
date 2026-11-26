@@ -13,9 +13,9 @@
 
 | 기간 | 프로젝트 | 핵심 기술 |
 |---|---|---|
+| 2026.11&nbsp;~&nbsp;2026.12 | [손끝옷장](https://hooni9807.github.io/portfolio/#closet) · 말과 사진으로 등록하는 음성 옷장 도우미 | Gemma 4, GPT API, 기상청 API |
 | 2026.10&nbsp;~&nbsp;2026.11 | [What Is This?](https://hooni9807.github.io/portfolio/#whatisthis) · 손끝이 가리킨 음료를 읽어 주는 모바일 웹 | MediaPipe, PaddleOCR, DINOv2 |
 | 2026.10&nbsp;~&nbsp;2026.11 | [소리한상](https://hooni9807.github.io/portfolio/#sorihansang) · 가리킨 반찬과 옮겨진 반찬을 알려 주는 식사 안내 | Gemma 4, MediaPipe |
-| 2026.11&nbsp;~&nbsp;2026.12 | [손끝옷장](https://hooni9807.github.io/portfolio/#closet) · 말과 사진으로 등록하는 음성 옷장 도우미 | Gemma 4, GPT API, 기상청 API |
 | 2025.09&nbsp;~&nbsp;2025.12 | [편하CU](https://hooni9807.github.io/portfolio/#pyeonhacu) · 편의점 행사 상품 음성 안내 앱 | OCR, Gemma3, Android |
 | 2025.03&nbsp;~&nbsp;2025.07 | [뷰티프렌즈](https://hooni9807.github.io/portfolio/#beautyfriends) · 메이크업 도우미 | Gemma3, OpenCV |
 
@@ -23,8 +23,8 @@
 
 | 기간 | 프로젝트 | 핵심 기술 |
 |---|---|---|
-| 2026.10&nbsp;~&nbsp;2026.11 | [Crawling‑Document‑Data](https://hooni9807.github.io/portfolio/#cdd) · 공공문서 실제 샘플 수집기 | Playwright, pytest |
-| 2026.10&nbsp;~&nbsp;2026.11 | [Nearest AutoClick](https://hooni9807.github.io/portfolio/#macro) · KNN으로 화면을 보정하는 클릭 매크로 | k-NN, OpenCV ORB·RANSAC |
+| 2026.10&nbsp;~&nbsp;2026.11 | [Crawling‑Document‑Data](https://hooni9807.github.io/portfolio/#cdd) · 공공데이터포털·부처 보도자료에서 실제 공공문서를 모으는 수집기 | Playwright, pytest, 공공데이터 API |
+| 2026.10&nbsp;~&nbsp;2026.11 | [Nearest AutoClick](https://hooni9807.github.io/portfolio/#macro) · k-NN으로 화면을 보정하는 클릭 매크로 | k-NN, OpenCV ORB·RANSAC |
 | 2026.09&nbsp;~&nbsp;2026.12 | [Auto‑Test‑Program](https://hooni9807.github.io/portfolio/#deid) · 시험 문서 생성과 마스킹 회귀 테스트 | Python, Docker, FastAPI |
 
 ### 그 밖의 프로젝트
@@ -46,8 +46,8 @@
 | 프로젝트 | 기간 · 커밋 | 개발 과정 |
 |---|---|---|
 | [Auto‑Test‑Program](https://hooni9807.github.io/portfolio/#deid) | 2026.09.14&nbsp;~&nbsp;11.25&nbsp;·&nbsp;175 | 형식별 시험 문서 생성(1차 14개 형식) → OLE 196조합·확장 기능(2·3차) → 기대값 사전 계산과 OCR 캐시 → 추가 확장 1~5안(암호·대용량·레거시·비정상 PDF·OOXML) → Claude 스킬·웹 콘솔 |
-| [Nearest AutoClick](https://hooni9807.github.io/portfolio/#macro) | 2026.11.11&nbsp;~&nbsp;11.25&nbsp;·&nbsp;77 | 클릭 기록·재생 → ORB·RANSAC 화면 보정과 안전장치 → 정답 클릭 자동 기록 → KNN으로 가장 닮은 기준 화면 고르기 → 양식 자동 분류와 설정 학습 |
-| [Crawling‑Document‑Data](https://hooni9807.github.io/portfolio/#cdd) | 2026.11.24&nbsp;~&nbsp;11.25&nbsp;·&nbsp;41 | 포털 다운로드 요청 분석 → 기관 사이트 Playwright 수집 → 시그니처로 진짜 형식 판별·중복 제거 → 웹 화면·Windows 실행 파일 → 테스트 100개로 검증 |
+| [Nearest AutoClick](https://hooni9807.github.io/portfolio/#macro) | 2026.11.11&nbsp;~&nbsp;11.25&nbsp;·&nbsp;77 | 클릭 기록·재생 → ORB·RANSAC 화면 보정과 안전장치 → 정답 클릭 자동 기록 → k-NN으로 가장 닮은 기준 화면 고르기 → 양식 자동 분류와 설정 학습 |
+| [Crawling‑Document‑Data](https://hooni9807.github.io/portfolio/#cdd) | 2026.11.24&nbsp;~&nbsp;11.26&nbsp;·&nbsp;51 | 포털 다운로드 요청 분석 → 기관 사이트 Playwright 수집 → 시그니처로 진짜 형식 판별·중복 제거 → 웹 화면·Windows 실행 파일 → 부처 보도자료 API를 두 번째 출처로 추가 → 테스트 126개로 검증 |
 
 저장소는 회사 업무와 관련되어 비공개이고, 자세한 내용은 포트폴리오에서 볼 수 있습니다. AI 코딩 도구(Claude Code)를 함께 썼습니다. 기획, 설계 결정, 시험, 최종 검토는 직접 했습니다.
 
