@@ -14,7 +14,7 @@
 | 기간 | 프로젝트 | 핵심 기술 |
 |---|---|---|
 | 2026.11&nbsp;~&nbsp;2026.12 | [손끝옷장](https://hooni9807.github.io/portfolio/#closet) · 말과 사진으로 등록하는 음성 옷장 도우미 | Gemma 4, GPT API, 기상청 API |
-| 2026.10&nbsp;~&nbsp;2026.11 | [What Is This?](https://hooni9807.github.io/portfolio/#whatisthis) · 손끝이 가리킨 음료를 읽어 주는 모바일 웹 | MediaPipe, PaddleOCR, DINOv2 |
+| 2026.11 | [What Is This?](https://hooni9807.github.io/portfolio/#whatisthis) · 손끝이 가리킨 음료를 읽어 주는 모바일 웹 | MediaPipe, PaddleOCR, DINOv2 |
 | 2026.10&nbsp;~&nbsp;2026.11 | [소리한상](https://hooni9807.github.io/portfolio/#sorihansang) · 가리킨 반찬과 옮겨진 반찬을 알려 주는 식사 안내 | Gemma 4, MediaPipe |
 | 2025.09&nbsp;~&nbsp;2025.12 | [편하CU](https://hooni9807.github.io/portfolio/#pyeonhacu) · 편의점 행사 상품 음성 안내 앱 | OCR, Gemma3, Android |
 | 2025.03&nbsp;~&nbsp;2025.07 | [뷰티프렌즈](https://hooni9807.github.io/portfolio/#beautyfriends) · 메이크업 도우미 | Gemma3, OpenCV |
@@ -23,15 +23,15 @@
 
 | 기간 | 프로젝트 | 핵심 기술 |
 |---|---|---|
-| 2026.10&nbsp;~&nbsp;2026.11 | [Crawling‑Document‑Data](https://hooni9807.github.io/portfolio/#cdd) · 공공데이터포털·부처 보도자료에서 실제 공공문서를 모으는 수집기 | Playwright, pytest, 공공데이터 API |
-| 2026.10&nbsp;~&nbsp;2026.11 | [Nearest AutoClick](https://hooni9807.github.io/portfolio/#macro) · k-NN으로 화면을 보정하는 클릭 매크로 | k-NN, OpenCV ORB·RANSAC |
+| 2026.11 | [Crawling‑Document‑Data](https://hooni9807.github.io/portfolio/#cdd) · 공공데이터포털·부처 보도자료에서 실제 공공문서를 모으는 수집기 | Playwright, pytest, 공공데이터 API |
+| 2026.11 | [Nearest AutoClick](https://hooni9807.github.io/portfolio/#macro) · k-NN으로 화면을 보정하는 클릭 매크로 | k-NN, OpenCV ORB·RANSAC |
 | 2026.09&nbsp;~&nbsp;2026.12 | [Auto‑Test‑Program](https://hooni9807.github.io/portfolio/#deid) · 시험 문서 생성과 마스킹 회귀 테스트 | Python, Docker, FastAPI |
 
 ### 그 밖의 프로젝트
 
 | 기간 | 프로젝트 | 구분 |
 |---|---|---|
-| 2026.10&nbsp;~&nbsp;2026.11 | [문장곁](https://hooni9807.github.io/portfolio/#munjang) · 자기소개서 비교·편집과 AI 면접관 피드백 | 개인 |
+| 2026.11 | [문장곁](https://hooni9807.github.io/portfolio/#munjang) · 자기소개서 비교·편집과 AI 면접관 피드백 | 개인 |
 | 2026.03&nbsp;~&nbsp;2026.06 | [모르는거없쌤](https://hooni9807.github.io/portfolio/#aitutor) · RAG 기반 AI 튜터 | 팀 |
 | 2024.09&nbsp;~&nbsp;2025.02 | [레포트메이트](https://hooni9807.github.io/portfolio/#reportmate) · LLM 자료 조사 협업 플랫폼 | 팀 |
 
